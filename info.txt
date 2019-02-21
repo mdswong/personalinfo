@@ -1,3 +1,4 @@
 Age: 19 years old
 School: University of Santo Tomas
 Guardian: Beth Wong
+Location: Pasay City
